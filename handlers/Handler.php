@@ -1,13 +1,13 @@
 <?php
 
-namespace bazilio\yii\newrelic\handlers;
+namespace byinti\yii\newrelic\handlers;
 
 use yii\base\Component;
 
 abstract class Handler extends Component
 {
     /**
-     * @var \bazilio\yii\newrelic\Newrelic
+     * @var \byinti\yii\newrelic\Newrelic
      */
     public $newrelic;
 

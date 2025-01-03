@@ -1,17 +1,17 @@
 <?php
 
-namespace bazilio\yii\newrelic;
+namespace byinti\yii\newrelic;
 
-use bazilio\yii\newrelic\handlers\BaseHandler;
-use bazilio\yii\newrelic\handlers\ConsoleHandler;
-use bazilio\yii\newrelic\handlers\WebHandler;
+use byinti\yii\newrelic\handlers\BaseHandler;
+use byinti\yii\newrelic\handlers\ConsoleHandler;
+use byinti\yii\newrelic\handlers\WebHandler;
 use SobanVuex\NewRelic\Agent;
 use yii\base\BootstrapInterface;
 use yii\base\Component;
 
 /**
  * Class Newrelic
- * @package bazilio\yii\newrelic
+ * @package byinti\yii\newrelic
  */
 class Newrelic extends Component implements BootstrapInterface
 {

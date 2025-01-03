@@ -1,6 +1,6 @@
 <?php
 
-namespace bazilio\yii\newrelic\handlers;
+namespace byinti\yii\newrelic\handlers;
 
 use yii\web\Application;
 use yii\web\View;
