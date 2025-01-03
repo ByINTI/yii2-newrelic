@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "byinti/php-newrelic": "^2.0",
+        "byinti/php-newrelic": "^1.0",
         "php": ">=5.4.0",
         "yiisoft/yii2": "*"
     },
