@@ -5,7 +5,7 @@ namespace byinti\yii\newrelic;
 use byinti\yii\newrelic\handlers\BaseHandler;
 use byinti\yii\newrelic\handlers\ConsoleHandler;
 use byinti\yii\newrelic\handlers\WebHandler;
-use SobanVuex\NewRelic\Agent;
+use byinti\NewRelic\Agent;
 use yii\base\BootstrapInterface;
 use yii\base\Component;
 
