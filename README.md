@@ -60,5 +60,6 @@ return [
 ```
 
 Packagist Repository
+--------------------
 
 https://packagist.org/packages/byinti/yii2-newrelic
