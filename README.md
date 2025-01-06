@@ -22,6 +22,12 @@ Either run
 php composer.phar require --prefer-dist byinti/yii2-newrelic
 ```
 
+or 
+
+```
+composer require --prefer-dist byinti/yii2-newrelic
+```
+
 or add
 
 ```json
@@ -52,3 +58,7 @@ return [
     ],
 ];
 ```
+
+Packagist Repository
+
+https://packagist.org/packages/byinti/yii2-newrelic
